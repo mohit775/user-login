@@ -13,7 +13,7 @@ require __DIR__ . '/controller.php';
     <title>Register</title>
 
     <!-- CSS and files -->
-    <link href="css/style.css" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
 </head>
 
 <body>
